@@ -4,7 +4,7 @@
 
 **Description**: This is my submission for the Beekin coding assignment.
 
-**Instructions**: Download chromedriver [here](https://chromedriver.chromium.org/downloads). Set your *PATH* to location of the chromdriver. Navigate to location of the project and do a *pip install -r requirements* to install all necessary libraries. *python app.py* to run the application. You should see the following in your prompt:
+**Instructions**: Download chromedriver [here](https://chromedriver.chromium.org/downloads). Set your *PATH* to location of the chromedriver. Navigate to location of the project and do a *pip install -r requirements* to install all necessary libraries. *python app.py* to run the application. You should see the following in your prompt:
 ```
 MacBook-Pro$ python app.py 
  * Serving Flask app "app" (lazy loading)
