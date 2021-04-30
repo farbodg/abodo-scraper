@@ -1,6 +1,6 @@
 # Abodo.com python scraping application
 
-**Author**: Farbod Golkar, farbodg@gmail.com
+**Author**: Farbod G, farbodg@gmail.com
 
 **Description**: This is my submission for a coding assignment which scrapes abodo.com.
 
